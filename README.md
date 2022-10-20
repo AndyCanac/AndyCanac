@@ -13,7 +13,7 @@ src="https://img.shields.io/twitter/follow/aNdYCaNaC69?logo=twitter&style=for-th
 /></a><a href="https://www.github.com/AndyCanac" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AndyCanac?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/elpantalon_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/elpantalon_?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-### Skills
+###Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
