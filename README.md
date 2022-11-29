@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student and web developper in my waste time
 
 * 🌍  I'm based in Lyon
-* 🖥️  See my portfolio at [My wesbite](http://https://andycanac.netlify.app/)
+* 🖥️  See my portfolio at [My wesbite](https://andycanac.netlify.app/)
 * ✉️  You can contact me at [a.canac@yahoo.fr](mailto:a.canac@yahoo.fr)
 * 🧠  I'm learning Python, C++ ( for the moment )
 
