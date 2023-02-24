@@ -6,7 +6,7 @@ Student and web developper in my waste time
 * 🌍  I'm based in Lyon
 * 🖥️  See my portfolio at [My wesbite](https://andycanac.netlify.app/)
 * ✉️  You can contact me at [a.canac@yahoo.fr](mailto:a.canac@yahoo.fr)
-* 🧠  I'm learning Python, C++ ( for the moment )
+* 🧠  I'm learning react ( for the moment )
 
 <a href="https://www.twitter.com/aNdYCaNaC69" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/aNdYCaNaC69?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -38,5 +38,3 @@ src="https://img.shields.io/twitch/status/elpantalon_?logo=twitchsx&style=for-th
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AndyCanac"><img src="https://github-readme-stats.vercel.app/api?username=AndyCanac&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AndyCanac's GitHub stats" /></a>
-
-<a href="https://github.com/AndyCanac" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyCanac&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
